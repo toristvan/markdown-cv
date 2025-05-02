@@ -1,19 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tor Istvan Stadler Kjetså's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tor Istvan Stadler Kjetså
+Master of Science in Cybernetics and Robotics, Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:toristvansk@gmail.com">toristvansk@gmail.com</a>
+| <a href="https://github.com/toristvan">Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Engineer and "Drop Manager" (i.e. ~ tech lead) for the core backend development team at Solution Seeker.
+My main responsibility revolves around developing clients and APIs to integrate with various data sources for various data types, including timeseries and other custom data classes. 
+
+
 
 ### Specialized in
 
