@@ -10,36 +10,13 @@ Master of Science in Cybernetics and Robotics with a specialiation in Real-time 
 | <a href="https://github.com/toristvan">Github</a>
 </div>
 
-
-## Currently
-
-Software Engineer and "Drop Manager" (i.e. ~ tech lead) for the core backend development team at Solution Seeker.
-My main responsibility revolves around developing clients and APIs to integrate with various data sources for various data types, including timeseries and other custom data classes. Some tasks also involve developing in-house tools for effectivizing and simplifying various operations, such as creating and deploying services, finding data object references, etc.
-Other responsibilities include coordinating, prioritizing, and delegating incoming issues and project initiatives on behalf of the team.
-
-
-### Work responsibility keywords
-Data integrations and API development, event-driven systems, DevOps, in-house tool development
-
-### Tools
-Python, Docker, Docker Swarm, Kubernetes, Terraform, Google Cloud
-
-#### Less familiar
-Proxmox, Grafana, 
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
 `2016-2021`
 __NTNU, Trondheim.__
 M.Sc. Cybernetics and Robotics. *Specialization: Real-time systems* 
 
-`September 2019 - July 2020`
+`2019 - 2020`
  __Exchange: Technische Universität Berlin, Berlin__
 M.Sc. Computer Science.
 
@@ -47,48 +24,59 @@ M.Sc. Computer Science.
 __Oslo International School of Philosophy, Barcelona__
 Ex.phil, Ex.fac, and History of Ideas
 
+## Experience
 
+`2021-Current` __Solution Seeker__   
+*Role:* Software Engineer and "Drop Manager" (i.e. ~ tech lead) for the core backend development team  
+*Responsibilities and relevant concepts:* 
+Data integrations and API development, event-driven systems, DevOps, in-house tool development
 
+*Commonly used tools:* 
+Python, Docker, Docker Swarm, Kubernetes, Terraform, Google Cloud, AWS, FastAPI, SQL
 
-## Awards
+*Less frequently used tools:* Grafana, proxmox, GraphQL, MongoDB
 
-`2012`
-President, *Royal Society*, London, UK
+*Other Keywords:* Machine Learning, Production Optimization 
 
-Associate, *French Academy of Science*, Paris, France
+`2017-2021` __NTNU__  
+*Role*: Student assistant in Calculus; Information Technology, Introduction (Python); Object Oriented Programming (C++), Real-time Programming (Golang, C, Elixir, Python)
 
+*Responsibilities:* Assist and evaluate students in the respective courses.
 
+*Tools*: C++, C, Golang, Python, Elixir
 
-## Publications
+### Internships
+`2020` __Vipps__   
+*Role:* Backend developer  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+*Responsibilities:*   Developed a test store and a demo store for testing and showcasing Vipps' e-commerce products.
 
-### Journals
+*Tools:* Python, Django, Azure DevOps, Azure Portal
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+*Reference*: Simon Gottipalli
 
-`1669`
-Lectiones opticæ.
+`2019` __KnowIT__  
+*Role:* Fullstack developer
 
-etc. etc. etc.
+*Responsibilities:* Furthered development of a RPA-solution for price comparison between
+car rental companies.
 
-### Patents
+*Tools*: Java, C#, Javascript, Azure Portal
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Projects
 
+__Real-time elevator project__ [Github repository](https://github.com/toristvan/Sanntid_heis).  
+Elevator system consisting of three elevators (physical miniatures), developed with
+Golang. Focus areas: peer-to-peer communication, optimization of task distribution, fault tolerace.
 
-## Occupation
+__Physical game of pong__ [Github repository](https://github.com/akselsd/Byggern2019)  
+Assembling of hardware components (microcontrollers, sensors, actuators), wiring
+breadboard and developing software for microcontrollers to make a fully functional
+embedded computer system enabling us to play a game of pong. Github reposi-
+tory. 
 
-`1600`
-__Royal Mint__, London
+__MPC
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
