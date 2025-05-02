@@ -3,7 +3,7 @@ layout: cv
 title: Tor Istvan Stadler Kjetså's CV
 ---
 # Tor Istvan Stadler Kjetså
-Master of Science in Cybernetics and Robotics, Software Engineer.
+Master of Science in Cybernetics and Robotics with a specialiation in Real-time systems |  Software Engineer.
 
 <div id="webaddress">
 <a href="mailto:toristvansk@gmail.com">toristvansk@gmail.com</a>
@@ -14,13 +14,18 @@ Master of Science in Cybernetics and Robotics, Software Engineer.
 ## Currently
 
 Software Engineer and "Drop Manager" (i.e. ~ tech lead) for the core backend development team at Solution Seeker.
-My main responsibility revolves around developing clients and APIs to integrate with various data sources for various data types, including timeseries and other custom data classes. 
+My main responsibility revolves around developing clients and APIs to integrate with various data sources for various data types, including timeseries and other custom data classes. Some tasks also involve developing in-house tools for effectivizing and simplifying various operations, such as creating and deploying services, finding data object references, etc.
+Other responsibilities include coordinating, prioritizing, and delegating incoming issues and project initiatives on behalf of the team.
 
 
+### Work responsibility keywords
+Data integrations and API development, event-driven systems, DevOps, in-house tool development
 
-### Specialized in
+### Tools
+Python, Docker, Docker Swarm, Kubernetes, Terraform, Google Cloud
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+#### Less familiar
+Proxmox, Grafana, 
 
 
 ### Research interests
@@ -30,18 +35,18 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2021`
+__NTNU, Trondheim.__
+M.Sc. Cybernetics and Robotics. *Specialization: Real-time systems* 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2019 - July 2020`
+ __Exchange: Technische Universität Berlin, Berlin__
+M.Sc. Computer Science.
 
-- Sizar
+`2015`
+__Oslo International School of Philosophy, Barcelona__
+Ex.phil, Ex.fac, and History of Ideas
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
