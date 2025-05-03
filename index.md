@@ -33,6 +33,7 @@ Ex.phil, Ex.fac, and History of Ideas
 
 Solution Seeker is a company that leverages AI technology to optimize industrial production (mainly oil & gas). Machine learning models are used to recognize data patterns that can predict (and thus prevent) unfortunate events, measure states without the need for physical sensors or halting production, or provide decision support for increasing production/confidence in current state. We also provide tools for facilitating communication and coordination between operators, and for integrating with their current work flows.
 
+
 The backend is responsible for integrating with a lot of different data sources, and for handling the load of an immense amount of streamed data. The incoming data is subjected to a range of pre-processing steps before it is usable, at which time it is sent in multiple directions to different computations and data pipelines. All of these computational processes, and the communication between them are also handled by the backend team.
 
 *Tech stack:* 
@@ -43,7 +44,7 @@ Python, Docker, Docker Swarm, Kubernetes, Terraform, Kafka, Google Cloud, AWS, F
 `2017 - 2021` __NTNU__  
 *Role*: Student assistant in Calculus; Information Technology, Introduction (Python); Object Oriented Programming (C++); Real-time Programming (Golang, C, Elixir, Python)
 
-*Responsibilities:* Assist and evaluate students in the respective courses.
+At NTNU, students with top grades in courses are given a job opportunity as assistants to the professor in said course during following semesters. The work mainly consists of providing the students with guidance and feedback in their assignments and projects, and sometimes helping the professors with evaluations. I've done this in multiple courses with focus ranging from calculus to different forms of programming.
 
 *Tools*: C++, C, Golang, Python, Elixir
 
