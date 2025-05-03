@@ -3,7 +3,7 @@ layout: cv
 title: Tor Istvan Stadler Kjetså's CV
 ---
 # Tor Istvan Stadler Kjetså
-Master of Science in Cybernetics and Robotics with a specialiation in Real-time systems |  Software Engineer.
+Master of Science in Cybernetics and Robotics|  Software Engineer.
 
 <div id="webaddress">
 <a href="mailto:toristvansk@gmail.com">toristvansk@gmail.com</a>
@@ -48,7 +48,7 @@ At NTNU, students with top grades in courses are given a job opportunity as assi
 
 *Tools*: C++, C, Golang, Python, Elixir
 
-### Internships
+## Internships
 `2020` __Vipps__   
 *Role:* Backend developer  
 
@@ -81,8 +81,7 @@ Golang. Focus areas: peer-to-peer communication, optimization of task distributi
 __Physical game of pong__ [Github repository](https://github.com/akselsd/Byggern2019)  
 Assembling of hardware components (microcontrollers, sensors, actuators), wiring
 breadboard and developing software for microcontrollers to make a fully functional
-embedded computer system enabling us to play a game of pong. Github reposi-
-tory. 
+embedded computer system enabling us to play a game of pong.
 
 __Nonlinear MPC of a kite for wind energy utilization__ [Github repository](https://github.com/toristvan/MPC_kite/tree/master)  
 Using three discretization schemes: Implicit Euler, Single Shooting, and Orthogonal Collocation for designing and simulation an MPC for maximizing the thrust gained from a kite (use case: twoing a boat to reduce fuel consumption) while yielding to stability and state constraints.
