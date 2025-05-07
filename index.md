@@ -75,19 +75,22 @@ KnowIT wanted to upgrade and further develop an existing RPA-solution for price 
 ## Projects
 
 __Real-time elevator project__ [Github repository](https://github.com/toristvan/Sanntid_heis).  
-Elevator system consisting of three elevators (physical miniatures), developed with
-Golang. Focus areas: peer-to-peer communication, optimization of task distribution, fault tolerace.
+Elevator system consisting of three elevators (physical miniatures) that distribute and execute tasks between them as efficiently as possible, while making sure no task is left undone.  
+*Keywords:* fault tolerance, peer-to-peer communication, optimization of task distribution, distributed systems, Go.
 
 __Physical game of pong__ [Github repository](https://github.com/akselsd/Byggern2019)  
 Assembling of hardware components (microcontrollers, sensors, actuators), wiring
 breadboard and developing software for microcontrollers to make a fully functional
-embedded computer system enabling us to play a game of pong.
+embedded computer system enabling us to play a game of pong.  
+*Keywords:* embedded software, hardware assembling, low-level programming
 
 __Nonlinear MPC of a kite for wind energy utilization__ [Github repository](https://github.com/toristvan/MPC_kite/tree/master)  
-Using three discretization schemes: Implicit Euler, Single Shooting, and Orthogonal Collocation for designing and simulation an MPC for maximizing the thrust gained from a kite (use case: twoing a boat to reduce fuel consumption) while yielding to stability and state constraints.
+Using three discretization schemes: Implicit Euler, Single Shooting, and Orthogonal Collocation for designing and simulation an MPC for maximizing the thrust gained from a kite (use case: towing a boat to reduce fuel consumption) while yielding to stability and state constraints.  
+*Keywords:* Model Predictive Control, nonlinear control systems, discretization
 
 __Autonomous Smart Factory__  [Report](https://toristvan.github.io/autonomous-warehouse-report/AutonomousSmartFactory_FinalReport.pdf)  
 The project goal is to create an "autonomous warehouse" system where robots cooperate on executing tasks (i.e. move a box from A to B) as efficiently as possible, with as few failed tasks as possible, without colliding, and without running out of power (among other things). The project is part of a larger initiative from TU Berlin, and therefore not open-sourced.
+*Keywords:* ROS, C++, peer-to-peer communication, optimization of task distribution, A*, fault tolerance, distributed systems.
 
 
 <!-- ## Publications

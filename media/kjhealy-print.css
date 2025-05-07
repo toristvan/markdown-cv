@@ -167,7 +167,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -12%;
 }
 
 
@@ -226,7 +226,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 1em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
@@ -269,7 +269,7 @@ a:hover {
 }
 
 em {
-	font-style: normal;
+	font-style: italic;
 	color: #a00
 }
 
