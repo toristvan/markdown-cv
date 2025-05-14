@@ -36,10 +36,13 @@ Solution Seeker is a company that leverages AI technology to optimize industrial
 
 The backend is responsible for integrating with a lot of different data sources, and for handling the load of an immense amount of streamed data. The incoming data is subjected to a range of pre-processing steps before it is usable, at which time it is sent in multiple directions to different computations and data pipelines. All of these computational processes, and the communication between them are also handled by the backend team.
 
-*Tech stack:* 
-Python, Docker, Docker Swarm, Kubernetes, Terraform, Kafka, Google Cloud, AWS, FastAPI, OracleSQL, MSSQL, Grafana, Proxmox, GraphQL, MongoDB, PyTorch, TensorFlow, React, TypeScript, C#
+*Tools on frequent rotation:* 
+Python, Docker, Docker Swarm, Gitlab CI/CD
 
-*Other Keywords:* Data integrations, API development, event-driven systems, DevOps, in-house tool development, Machine Learning, Production Optimization 
+*Misc tools in company tech stack:*
+Kubernetes, Terraform, Kafka, Google Cloud, AWS, FastAPI, Grafana, Proxmox, OracleSQL, MSSQL, GraphQL, MongoDB, PyTorch, TensorFlow
+
+*Other Keywords:* Data integrations, API development, Event-driven systems, DevOps, in-house tool development, Machine Learning, Production Optimization 
 
 `2017 - 2021` __NTNU__  
 *Role*: Student assistant in Calculus; Information Technology, Introduction (Python); Object Oriented Programming (C++); Real-time Programming (Golang, C, Elixir, Python)
