@@ -33,31 +33,38 @@ Ex.phil, Ex.fac, and History of Ideas
 
 Solution Seeker is a company that leverages AI technology to optimize industrial production (mainly oil & gas). Machine learning models are used to recognize data patterns that can predict (and thus prevent) unfortunate events, measure states without the need for physical sensors or halting production, or provide decision support for increasing production/confidence in current state. We also provide tools for facilitating communication and coordination between operators, and for integrating with their current work flows.
 
+
 The backend is responsible for integrating with a lot of different data sources, and for handling the load of an immense amount of streamed data. The incoming data is subjected to a range of pre-processing steps before it is usable, at which time it is sent in multiple directions to different computations and data pipelines. All of these computational processes, and the communication between them are also handled by the backend team.
 
-<!--*Tools on frequent rotation:* 
+*Tools on frequent rotation:* 
 Python, Docker, Docker Swarm, Gitlab CI/CD
 
 *Misc tools in company tech stack:*
 Kubernetes, Terraform, Kafka, Google Cloud, AWS, FastAPI, Grafana, Proxmox, OracleSQL, MSSQL, GraphQL, MongoDB, PyTorch, TensorFlow
 
-*Other Keywords:* Data integrations, API development, Event-driven systems, DevOps, in-house tool development, Machine Learning, Production Optimization -->
+*Other Keywords:* Data integrations, API development, Event-driven systems, DevOps, in-house tool development, Machine Learning, Production Optimization 
 
+`2017 - 2021` __NTNU__  
+*Role*: Student assistant in Calculus; Information Technology, Introduction (Python); Object Oriented Programming (C++); Real-time Programming (Golang, C, Elixir, Python)
 
-<!--## Internships-->
+At NTNU, students with top grades in courses are given a job opportunity as assistants to the professor in said course during following semesters. The work mainly consists of providing the students with guidance and feedback in their assignments and projects, and sometimes helping the professors with evaluations. I've done this in multiple courses with focus ranging from calculus to different forms of programming.
+
+*Tools*: C++, C, Golang, Python, Elixir
+
+## Internships
 `2020` __Vipps__   
-*Role:* Backend developer summer intern
+*Role:* Backend developer  
 
 Vipps faced the challenge that their potential customers (e.g. Elkjøp) didn't understand the flow of and how to use their products. To address this we decided to spend the summer developing a demo store showcasing Vipps' e-commerce products. With a few configurational tweaks, the store doubled as a test suite for Vipps' own developers too.
 
-<!--*Tools:* Python, Django, Azure DevOps, Azure Portal-->
+*Tools:* Python, Django, Azure DevOps, Azure Portal
 
 <!-- *References:*
 * Simon Gottipalli, [LinkedIn](https://www.linkedin.com/in/simon-gottipalli/), [simon.gottipalli@gmail.com](mailto:simon.gottipalli@gmail.com), tlf: +47 486443314  
 * Thomas Townsend, [LinkedIn](https://www.linkedin.com/in/thomas-townsend-29412287/), [thomas.haakon@gmail.com](mailto:thomas.haakon@gmail.com), tlf: +47 47448960 -->
 
 `2019` __KnowIT__  
-*Role:* Fullstack developer summer intern
+*Role:* Fullstack developer
 
 KnowIT wanted to upgrade and further develop an existing RPA-solution for price comparison between car rental companies. During the summer I rewrote a lot of the code base, merging two repositories - reimplementing modules with new abstractions, and translated large parts from Javascript and C# to Java. With a new foundation I further automated the data fetching and comparison parts, leading it to require less human interaction, and added support for new companies and languages.
 
@@ -66,28 +73,25 @@ KnowIT wanted to upgrade and further develop an existing RPA-solution for price 
 * Tor Oskar Wilhelmsen, [LinkedIn](https://www.linkedin.com/in/tor-oskar-wilhelmsen-911a20/), [toroskar@gmail.com](mailto:toroskar@gmail.com), tlf: +47 94529662 -->
 
 
-`2017 - 2021` __NTNU__  
-*Role*: Part-time student assistant in Calculus; Information Technology, Introduction (Python); Object Oriented Programming (C++); Real-time Programming (Golang, C, Elixir, Python)
-
-At NTNU, students with top grades in courses are given a job opportunity as assistants to the professor in said course during following semesters. The work mainly consists of providing the students with guidance and feedback in their assignments and projects, and sometimes helping the professors with evaluations. I've done this in multiple courses with focus ranging from calculus to different forms of programming.
+*Tools*: Java, C#, Javascript, Azure Portal
 
 ## Projects
 
-`2019` __Real-time elevator project__ [Github repository](https://github.com/toristvan/Sanntid_heis).  
+__Real-time elevator project__ [Github repository](https://github.com/toristvan/Sanntid_heis).  
 Elevator system consisting of three elevators (physical miniatures) that distribute and execute tasks between them as efficiently as possible, while making sure no task is left undone.  
 *Keywords:* fault tolerance, peer-to-peer communication, optimization of task distribution, distributed systems, Go.
 
-`2019`__Physical game of pong__ [Github repository](https://github.com/akselsd/Byggern2019)  
+__Physical game of pong__ [Github repository](https://github.com/akselsd/Byggern2019)  
 Assembling of hardware components (microcontrollers, sensors, actuators), wiring
 breadboard and developing software for microcontrollers to make a fully functional
 embedded computer system enabling us to play a game of pong.  
 *Keywords:* embedded software, hardware assembling, low-level programming
 
-`2020` __Nonlinear MPC of a kite for wind energy utilization__ [Github repository](https://github.com/toristvan/MPC_kite/tree/master)  
+__Nonlinear MPC of a kite for wind energy utilization__ [Github repository](https://github.com/toristvan/MPC_kite/tree/master)  
 Using three discretization schemes: Implicit Euler, Single Shooting, and Orthogonal Collocation for designing and simulation an MPC for maximizing the thrust gained from a kite (use case: towing a boat to reduce fuel consumption) while yielding to stability and state constraints.  
 *Keywords:* Model Predictive Control, nonlinear control systems, discretization
 
-`2019` __Autonomous Smart Factory__  [Report](https://toristvan.github.io/autonomous-warehouse-report/AutonomousSmartFactory_FinalReport.pdf)  
+__Autonomous Smart Factory__  [Report](https://toristvan.github.io/autonomous-warehouse-report/AutonomousSmartFactory_FinalReport.pdf)  
 The project goal is to create an "autonomous warehouse" system where robots cooperate on executing tasks (i.e. move a box from A to B) as efficiently as possible, with as few failed tasks as possible, without colliding, and without running out of power (among other things). The project is part of a larger initiative from TU Berlin, and therefore not open-sourced.
 *Keywords:* ROS, C++, peer-to-peer communication, optimization of task distribution, A*, fault tolerance, distributed systems.
 
